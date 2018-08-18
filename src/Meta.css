@@ -1,0 +1,20 @@
+.meta {
+  width: 20%;
+  padding-top: 10px;
+  padding-left: 30px;
+}
+
+.meta .title {
+  font-size: 14px;
+}
+
+.meta .artist {
+  font-size: 12px;
+  color: #666;
+}
+
+.meta .time {
+  color: #999;
+  font-size: 12px;
+  margin-top: 1rem;
+}

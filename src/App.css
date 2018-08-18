@@ -1,0 +1,23 @@
+.app {
+  font-family: Helvetica, Tahoma, Arial, Microsoft YaHei, sans-serif;
+  width: 32rem;
+  margin: 0 auto;
+}
+
+.container {
+  position: relative;
+  box-sizing: border-box;
+  height: 5.25rem;
+  box-shadow: rgba(59, 59, 177, 0.180392) 0px 0px 20px;
+  background: rgb(255, 255, 255);
+}
+
+footer {
+  font-size: 14px;
+  color: gray;
+}
+
+footer a {
+  color: #d94240;
+  text-decoration: none;
+}

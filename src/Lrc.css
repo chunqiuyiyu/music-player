@@ -1,0 +1,27 @@
+.lrc {
+    overflow: hidden;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.lrc-area {
+  font-size: 12px;
+  margin-top: 28px;
+  text-align: center;
+  color: rgba(6, 6, 6, 0.4);
+}
+
+.lrc-current {
+  color: black;
+  font-size: 14px;
+}
+
+.lrc-area p {
+  margin: 0;
+  line-height: 28px;
+  height: 28px;
+}
